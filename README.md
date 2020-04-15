@@ -1,0 +1,2 @@
+# boethus
+Latin Translation Helper
